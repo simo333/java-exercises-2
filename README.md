@@ -1,4 +1,4 @@
-#Learning Java part 2:
+Learning Java part 2:
 * Arrays
 * Data input
 * Exceptions
